@@ -1,3 +1,5 @@
+//3993
+//anthoniosdb@gmail.com
 #ifndef ALGORITHMS_HPP
 #define ALGORITHMS_HPP
 #include <string>

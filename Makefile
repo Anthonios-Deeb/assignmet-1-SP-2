@@ -1,5 +1,5 @@
-#!make -f
-
+# 3993
+# anthoniosdb@gmail.com
 CXX = g++
 CXXFLAGS = -std=c++11 -Wall -Wextra
 

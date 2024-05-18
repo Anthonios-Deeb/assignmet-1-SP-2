@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "vector": "cpp",
+    "__bit_reference": "cpp",
+    "complex": "cpp",
+    "deque": "cpp",
+    "stdexcept": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "enabled",
+  "cmake.configureOnOpen": true
+}
